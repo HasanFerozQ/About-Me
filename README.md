@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanFeroz
 - 👀 I’m interested in Project Management
-- 🌱 I’m currently learning Dart and Flutter to Manage App Projects In A Better Understanding
+- 🌱 I’m currently learning Data Sciences.
 - 💞️ I’m looking to collaborate on projects as a Project Manager
 - 📫 Email me at : hasan.feroz.qureshi@gmail.com
 - 😄 Pronouns: Majesty, Your Highness 😄 ... call me whatever you like lol
